@@ -1,3 +1,7 @@
+import './assets/fonts/GenYoMinTW-Regular.ttf';
+import './assets/fonts/GenYoMinTW-Medium.ttf';
+import './assets/fonts/GenYoMinTW-Bold.ttf';
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

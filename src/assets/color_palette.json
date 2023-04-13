@@ -1,0 +1,23 @@
+{
+  "border": "rgb(53, 20, 13)", 
+  "screen_background": "rgb(232, 230, 223)", 
+  "LubHead": "rgb(164, 104, 67)",
+  "button-brown": "rgb(53, 20, 13)",  
+  "standard": [
+    "rgb(214, 210, 193)", 
+    "rgb(190, 142, 99)", 
+    "rgb(164, 104, 67)", 
+    "rgb(53, 20, 13)", 
+    "rgb(226, 206, 188)"
+  ], 
+  "election": [
+    "rgb(169, 209, 142)", 
+    "rgb(143, 170, 220)", 
+    "rgb(244, 177, 131)"
+  ], 
+
+  "claimButton": "rgb(226, 206, 188)", 
+  "tabContent": "rgb(226, 206, 188)", 
+  "Checkpoint1_infoDiv": "rgb(240, 235, 230)", 
+  "descriptions": "rgb(244, 244, 244)"
+}
