@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.760d411e.css",
+    "main.js": "/static/js/main.f0fe970c.js",
+    "static/js/787.5eb3735d.chunk.js": "/static/js/787.5eb3735d.chunk.js",
+    "static/media/GenSenMaruGothicTW-Bold.ttf": "/static/media/GenSenMaruGothicTW-Bold.a473ff778cd8b6da12a9.ttf",
+    "static/media/GenSenMaruGothicTW-Regular.ttf": "/static/media/GenSenMaruGothicTW-Regular.239c1e12c237089cdc0a.ttf",
+    "static/media/SocialMediaGIF.gif": "/static/media/SocialMediaGIF.c0c83d24bba3a7c66997.gif",
+    "static/media/family_sofa.svg": "/static/media/family_sofa.9bcb6d28fd248b4d7d00.svg",
+    "static/media/事實查核教育基金會.png": "/static/media/事實查核教育基金會.9f94fa6d30b7a284a33f.png",
+    "static/media/媒體觀察教育基金會.png": "/static/media/媒體觀察教育基金會.930e4a4d333474568b8b.png",
+    "static/media/卓越新聞獎基金會.webp": "/static/media/卓越新聞獎基金會.1164a813333650e2d217.webp",
+    "static/media/優質新聞發展協會.png": "/static/media/優質新聞發展協會.97aedba41f81de18970a.png",
+    "static/media/clock1605.svg": "/static/media/clock1605.caa278db35d2c0aafcb96235848b4c69.svg",
+    "static/media/LineDivider.svg": "/static/media/LineDivider.8351111cd779e16ac42f.svg",
+    "index.html": "/index.html",
+    "main.760d411e.css.map": "/static/css/main.760d411e.css.map",
+    "main.f0fe970c.js.map": "/static/js/main.f0fe970c.js.map",
+    "787.5eb3735d.chunk.js.map": "/static/js/787.5eb3735d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760d411e.css",
+    "static/js/main.f0fe970c.js"
+  ]
+}

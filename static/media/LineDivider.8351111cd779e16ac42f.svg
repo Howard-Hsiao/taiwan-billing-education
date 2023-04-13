@@ -1,0 +1,33 @@
+<svg id="圖層_1" data-name="圖層 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1072.51 24.8">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        clip-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke: #341610;
+        stroke-miterlimit: 8;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(-2.94 -3.15)">
+      <polygon class="cls-1" points="2.94 28.67 1077.03 28.67 1077.03 2.77 2.94 2.77 2.94 28.67 2.94 28.67"/>
+    </clipPath>
+  </defs>
+  <title>LineDivider</title>
+  <g>
+    <line class="cls-2" y1="1" x2="1072.51" y2="1"/>
+    <g class="cls-3">
+      <polygon class="cls-2" points="555.59 1.83 536.2 23.31 516.81 1.83 555.59 1.83 555.59 1.83"/>
+    </g>
+  </g>
+</svg>
