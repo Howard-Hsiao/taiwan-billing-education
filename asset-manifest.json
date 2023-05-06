@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/taiwan-billing-education.github.io/static/css/main.6cb1aff6.css",
-    "main.js": "/taiwan-billing-education.github.io/static/js/main.00f9b7d0.js",
+    "main.js": "/taiwan-billing-education.github.io/static/js/main.755dda2c.js",
     "static/js/787.5eb3735d.chunk.js": "/taiwan-billing-education.github.io/static/js/787.5eb3735d.chunk.js",
     "static/media/GenSenMaruGothicTW-Bold.ttf": "/taiwan-billing-education.github.io/static/media/GenSenMaruGothicTW-Bold.a473ff778cd8b6da12a9.ttf",
     "static/media/GenSenMaruGothicTW-Regular.ttf": "/taiwan-billing-education.github.io/static/media/GenSenMaruGothicTW-Regular.239c1e12c237089cdc0a.ttf",
@@ -15,11 +15,11 @@
     "static/media/LineDivider.svg": "/taiwan-billing-education.github.io/static/media/LineDivider.8351111cd779e16ac42f.svg",
     "index.html": "/taiwan-billing-education.github.io/index.html",
     "main.6cb1aff6.css.map": "/taiwan-billing-education.github.io/static/css/main.6cb1aff6.css.map",
-    "main.00f9b7d0.js.map": "/taiwan-billing-education.github.io/static/js/main.00f9b7d0.js.map",
+    "main.755dda2c.js.map": "/taiwan-billing-education.github.io/static/js/main.755dda2c.js.map",
     "787.5eb3735d.chunk.js.map": "/taiwan-billing-education.github.io/static/js/787.5eb3735d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cb1aff6.css",
-    "static/js/main.00f9b7d0.js"
+    "static/js/main.755dda2c.js"
   ]
 }
